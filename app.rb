@@ -12,5 +12,5 @@ get '/' do
 end
 
 get '/' do
-  "Hello, World!"
+  "My favorite song is Mine by Bizzai"
 end
