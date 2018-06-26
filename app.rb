@@ -7,7 +7,7 @@ get 'name/' do
   "My name is BriAnn"
 end
 
-get '/' do
+get 'hometown/' do
   "My hometown is Memphis TN"
 end
 
